@@ -56,7 +56,7 @@ Shadow-Flip-Oh-Vue é um jogo da memória inspirado em Yu-Gi-Oh!, desenvolvido c
 
 ```bash
 # Clone o repositório
-git clone [https://github.com/Domisnnet/Shadow-Flip-Oh-Vue.git](https://github.com/Domisnnet/Shadow-Flip-Oh-Vue.Js.git)
+git clone [https://github.com/Domisnnet/Shadow-Flip-Oh-Vue.Js.git](https://github.com/Domisnnet/Shadow-Flip-Oh-Vue.Js.git)
 
 # Instale e rode
 cd Shadow-Flip-Oh-Vue.Js
@@ -140,7 +140,7 @@ Se algo não estiver funcionando como esperado, não hesite em abrir um chamado:
 
 Gostou do jogo? Explore o código ou faça sugestões:
 
-[![Repositório](https://img.shields.io/badge/Repositório-Domisnnet%2FShadow--Flip--Oh-blue?style=for-the-badge&logo=github)](https://github.com/Domisnnet/Shadow-Flip-Oh-Vue.js)
+[![Repositório](https://img.shields.io/badge/Repositório-Domisnnet%2FShadow--Flip--Oh-Vue.Js-blue?style=for-the-badge&logo=github)](https://github.com/Domisnnet/Shadow-Flip-Oh-Vue.js)
 
 ---
 
